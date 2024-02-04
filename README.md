@@ -6,6 +6,6 @@ Two points are selected on these user provided images and a path is found betwee
 
 Examples are provided in the results folder depicting the navigational mesh, paths explored, and the minimal cost path found with the algorithm. Can be used for AI pathing and decision making in games.
 
-Challenges faced: Learning the various differences between above named algorithms. Using data structures to track segments, costs, and paths explored.
+Challenges: Learning the various differences between above named algorithms. Using data structures to track segments, costs, and paths explored.
 
 Learned: Djikstra's Algorithm, A*, bidirectional A* implementation in Python. Use cases for pathfinding. Differences between each pathfinding algorithm and when you might want to use each one.
